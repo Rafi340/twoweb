@@ -27,7 +27,7 @@ h2{
     width: 100%;
 }
 .top-banner{
-    background-image: url(/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
     
 }
@@ -46,7 +46,7 @@ section{
     font-weight: bold;
 }
 .second-banner{
-    background-image: url(/img/3.png);
+    background-image: url(img/3.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -57,7 +57,7 @@ section{
     background-color: white;
 }
 .exp-area{
-    background-image: url(/img/4.png);
+    background-image: url(img/4.png);
     background-repeat: no-repeat;
     background-position: left;
 }
